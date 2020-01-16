@@ -51,7 +51,7 @@
  */
 #define CONFIGURATION_H_VERSION 010100
 
-#define MSG_MY_VERSION "V1.3.0"
+#define MSG_MY_VERSION "V1.3.0-EM"
 
 #define OutageTest  //断电续打
 
